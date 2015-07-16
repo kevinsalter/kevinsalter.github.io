@@ -14,7 +14,11 @@
       <pubDate>Tue, 14 Jul 2015 17:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://kevinsalter.me/articles/sketch-1/</guid>
       <author></author>
-      <description>
+      <description>&lt;p&gt;Some intro text…&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/sketch-1/example-sketch1.jpg&quot; alt=&quot;Sketch 1&quot;&gt;
+&lt;img src=&quot;/articles/sketch-1/example-sketch2.jpg&quot; alt=&quot;Sketch 2&quot;&gt;
+&lt;img src=&quot;/articles/sketch-1/example-sketch3.jpg&quot; alt=&quot;Sketch 3&quot;&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
