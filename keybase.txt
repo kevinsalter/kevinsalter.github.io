@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/kevinsalter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kevinsalter.me
+  * I am kevinsalter (https://keybase.io/kevinsalter) on keybase.
+  * I have a public key with fingerprint 589E 8D1E A4D8 F3E7 B23A  2013 439E B75C C719 B6CF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101289466488c4ae14a09a28e3229b3e738316f70c0e4a2d3c8a8d930d33451afe40a",
+            "fingerprint": "589e8d1ea4d8f3e7b23a2013439eb75cc719b6cf",
+            "host": "keybase.io",
+            "key_id": "439eb75cc719b6cf",
+            "kid": "0101289466488c4ae14a09a28e3229b3e738316f70c0e4a2d3c8a8d930d33451afe40a",
+            "uid": "5ea6c716d396eec4315c1c84c5b92f19",
+            "username": "kevinsalter"
+        },
+        "service": {
+            "hostname": "kevinsalter.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1482431828,
+    "expire_in": 157680000,
+    "prev": "a9b1515622b199ddda91a8253475affe2a1bec56b6eba587599e1ac41d31f0ad",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVRFL1mio8eFmEmPWzQIhCZM89zbmXRA4oKqQxKtOuZmT33Turc
+29zxZplF0EcPetHjJzEpe5l93EKCoNQeRgqCFElJINWHZGBGLyGsM1Jf9dn52Zy9
+11p77c1+NDnRl5aA8yKTR3+O5SR0d5yv9m0tnVNcy2lhYzfnr+UqYDxApQFRN1Bh
+GZyf4xGPBEwkRZEw1iUKSKI8oQIGURCIJoIqYhEppsrrPEhUMEQdU2wQkTdEUZIR
+NUHiKZfPmZYdBCfiWLbLZGVMABsIqGRgk4logkgFHomSSEBTZV1XEdEU3WTEUDjq
+MZg5jUahwAqzHPsExu39A/+ffVePy8lAFdZDMUSiAOiSiGQd6VjSZY0IJiIeMAqO
+Tatg3GvMsqO00gWHq8vnWCFm6eDt1hvmb1ABS+RzESfshvVwJauFXDfi96ju7oiH
+3QVa4LdKQLNsg+2SEWLgRK2wzfkRQ+qu5ckiCQvMHRZwPgc1EcuBgOUhZFXBPHte
+G4gxSUo0JCNZEQQNEWIYBiWIYkEWJVWmpgkCRRrosqIpoFEZqzIhgKguIUNEJk8N
+zptrpx3m/AqzSYNMMmoFbepWO8DVPWgvnehLSPMlJ03wbsyXlprx5/Lo0hTfK371
+D+u0r0qbHU9c9fBT+r2B7sS59xdtHOzMpXk9x9bk7Pswv+nJtduTjLZp58qS1i17
+F7v7tXRJ2hcnAXJC5c+WHC8fjFeVLQ753r9c29X+umt4Xvby2pKOpqKrCxe8OHYG
+bTjyraf8StHOKVnBYLSldNaj9OyS6Z973zbuPZAZOtJ69iKMfEzecmOoEHU/uLSn
+fqWamjFgnmhIyTplXxhFoZs1qaOHNi1s7u/EHQ0hPp7Rc7jmzdS84db1K0aGL6v9
+J8viBxcd/TKjed71wh1b7s+3tsdaMvumlH1//FyrT2/sndmXnJE6UJK0P/J+dNsQ
+FO/PiVcev3Wv9mnu2OZmcqftFxR0PTs=
+=RyuF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevinsalter
+
+==================================================================
